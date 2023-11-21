@@ -10,5 +10,8 @@ def safe_print_list(my_list=[], x=0):
         print()
         return num
     except IndexError:
-        print()
+        print("out")
         return num
+
+
+safe_print_list([1, 2, 3, 4, 5, 6], 3)
