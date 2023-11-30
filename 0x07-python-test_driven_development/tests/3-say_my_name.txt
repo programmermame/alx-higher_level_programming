@@ -7,7 +7,7 @@ Test -> 3-say_my_name.py
 ======Succes cases======
 
 >>> say_my_name("Mohammed", "Mussa")
-My name is Naruto Uzumaki
+My name is Mohammed Mussa
 
 >>> say_my_name("Naruto")
 My name is Naruto 
